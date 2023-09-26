@@ -1,0 +1,12 @@
+#python3 ./extract_stds_khipu.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx ./Lucas_UnDeriv_Stds_G1_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv ./Lucas_Deriv_Stds_G1_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv
+#python3 ./extract_stds_khipu.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx ./Lucas_UnDeriv_Stds_G2_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv ./Lucas_Deriv_Stds_G2_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv 
+
+#python3 ./extract_stds_feature.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx ./Lucas_UnDeriv_Stds_G1_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv ./Lucas_Deriv_Stds_G1_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv
+#python3 ./extract_stds_feature.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx ./Lucas_UnDeriv_Stds_G2_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv ./Lucas_Deriv_Stds_G2_09_08_2023/filtered_feature_tables/preferred_blank_masked_Feature_table.tsv 
+
+
+#python3 ./extract_stds_khipu.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx $(pcpfm retrieve ./Lucas_UnDeriv_Stds_G1_09_08_2023 table preferred_blank_masked) $(pcpfm retrieve ./Lucas_Deriv_Stds_G1_09_08_2023 table preferred_blank_masked)
+#python3 ./extract_stds_khipu.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx $(pcpfm retrieve ./Lucas_UnDeriv_Stds_G2_09_08_2023 table preferred_blank_masked) $(pcpfm retrieve ./Lucas_Deriv_Stds_G2_09_08_2023 table preferred_blank_masked)
+
+python3 ./extract_stds_feature.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx $(pcpfm retrieve ./Lucas_UnDeriv_Stds_G1_09_08_2023 table preferred_blank_masked) $(pcpfm retrieve ./Lucas_Deriv_Stds_G1_09_08_2023 table preferred_blank_masked)
+python3 ./extract_stds_feature.py ./Glycolysis_TCA_standards_stock_buffer_group.xlsx $(pcpfm retrieve ./Lucas_UnDeriv_Stds_G2_09_08_2023 table preferred_blank_masked) $(pcpfm retrieve ./Lucas_Deriv_Stds_G2_09_08_2023 table preferred_blank_masked)

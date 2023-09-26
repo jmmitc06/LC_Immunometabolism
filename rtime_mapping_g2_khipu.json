@@ -1,0 +1,96 @@
+{
+    "amp": {
+        "low_confidence_retention_times": [
+            [
+                49.52,
+                52.68
+            ]
+        ],
+        "confirmed_retention_times": [],
+        "isotope_confirmed_retention_times": [
+            [
+                49.52,
+                52.68
+            ]
+        ],
+        "all_retention_times": [
+            [
+                49.52,
+                52.68
+            ],
+            [
+                49.52,
+                52.68
+            ]
+        ],
+        "search_mass": 347.063085
+    },
+    "lipoamide": {
+        "low_confidence_retention_times": [
+            [
+                376.05,
+                379.21
+            ]
+        ],
+        "confirmed_retention_times": [],
+        "isotope_confirmed_retention_times": [
+            [
+                376.05,
+                379.21
+            ],
+            [
+                376.05,
+                379.21
+            ]
+        ],
+        "all_retention_times": [
+            [
+                376.05,
+                379.21
+            ],
+            [
+                376.05,
+                379.21
+            ],
+            [
+                376.05,
+                379.21
+            ]
+        ],
+        "search_mass": 205.059506
+    },
+    "dl-alpha-lipoamide": {
+        "low_confidence_retention_times": [
+            [
+                376.05,
+                379.21
+            ]
+        ],
+        "confirmed_retention_times": [],
+        "isotope_confirmed_retention_times": [
+            [
+                376.05,
+                379.21
+            ],
+            [
+                376.05,
+                379.21
+            ]
+        ],
+        "all_retention_times": [
+            [
+                376.05,
+                379.21
+            ],
+            [
+                376.05,
+                379.21
+            ],
+            [
+                376.05,
+                379.21
+            ]
+        ],
+        "search_mass": 205.059506
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "isocitrate_dmpa*3": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                436.16,
+                438.91,
+                0.7257233658918846,
+                64680887.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                436.16,
+                438.91,
+                0.7257233658918846,
+                64680887.0,
+                "H+"
+            ],
+            [
+                436.16,
+                438.91,
+                0.7257233658918846,
+                64680887.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                676.28592246677,
+                "H+"
+            ],
+            [
+                676.28592246677,
+                "H+"
+            ]
+        ]
+    },
+    "isocitric acid_dmpa*3": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                436.16,
+                438.91,
+                0.7257233658918846,
+                64680887.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                436.16,
+                438.91,
+                0.7257233658918846,
+                64680887.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                676.28592246677,
+                "H+"
+            ]
+        ]
+    },
+    "amp": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                49.52,
+                52.68
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                49.52,
+                52.68
+            ]
+        ],
+        "search_mass": [
+            [
+                348.06981246677003,
+                "H+"
+            ]
+        ]
+    },
+    "thiamin diphosphate": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                33.9,
+                36.92
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                33.9,
+                36.92
+            ]
+        ],
+        "search_mass": [
+            [
+                425.04442,
+                "+"
+            ]
+        ]
+    },
+    "thiamine pyrophosphate hydrochloride": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                33.9,
+                36.92
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                33.9,
+                36.92
+            ]
+        ],
+        "search_mass": [
+            [
+                425.04442,
+                "+"
+            ]
+        ]
+    },
+    "lipoamide": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                376.19,
+                379.21
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                376.19,
+                379.21
+            ],
+            [
+                376.19,
+                379.21
+            ],
+            [
+                376.19,
+                379.21
+            ]
+        ],
+        "search_mass": [
+            [
+                206.06623346677,
+                "H+"
+            ],
+            [
+                228.048726282019,
+                "Na+"
+            ],
+            [
+                223.09333113338798,
+                "NH4+"
+            ]
+        ]
+    },
+    "dl-alpha-lipoamide": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                376.19,
+                379.21
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                376.19,
+                379.21
+            ],
+            [
+                376.19,
+                379.21
+            ],
+            [
+                376.19,
+                379.21
+            ]
+        ],
+        "search_mass": [
+            [
+                206.06623346677,
+                "H+"
+            ],
+            [
+                228.048726282019,
+                "Na+"
+            ],
+            [
+                223.09333113338798,
+                "NH4+"
+            ]
+        ]
+    }
+}

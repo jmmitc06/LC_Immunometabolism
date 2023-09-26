@@ -1,0 +1,767 @@
+{
+    "pyruvate_dmpa*1": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                391.56,
+                396.94,
+                1.7056448475629358,
+                58629121.0,
+                "Na+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                391.56,
+                396.94,
+                1.7056448475629358,
+                58629121.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                272.08932828201904,
+                "Na+"
+            ]
+        ]
+    },
+    "2-oxoglutarate_dmpa*1": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                383.55,
+                404.82,
+                1.3661001748076889,
+                12681904.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                383.55,
+                404.82,
+                1.3661001748076889,
+                12681904.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                308.11231446677004,
+                "H+"
+            ]
+        ]
+    },
+    "2-oxoglutarate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                425.17,
+                428.45,
+                1.000995049912817,
+                3209405265.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                425.17,
+                428.45,
+                1.000995049912817,
+                3209405265.0,
+                "H+"
+            ],
+            [
+                425.57,
+                428.59,
+                0.9889439927602063,
+                158211754.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                469.19637846677006,
+                "H+"
+            ],
+            [
+                491.17887128201903,
+                "Na+"
+            ]
+        ]
+    },
+    "succinate_dmpa*1": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                384.73,
+                387.62,
+                0.8875273599460052,
+                23967414.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                384.73,
+                387.62,
+                0.8875273599460052,
+                23967414.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                280.11740046677005,
+                "H+"
+            ]
+        ]
+    },
+    "succinate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                423.6,
+                426.75,
+                0.9213816650920472,
+                22827309592.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                423.6,
+                426.75,
+                0.9213816650920472,
+                22827309592.0,
+                "H+"
+            ],
+            [
+                422.68,
+                426.88,
+                0.66451209592772,
+                28839650.0,
+                "K+"
+            ],
+            [
+                422.68,
+                425.04,
+                1.0932162807145351,
+                427929093.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                441.20146446677,
+                "H+"
+            ],
+            [
+                479.157894486449,
+                "K+"
+            ],
+            [
+                463.183957282019,
+                "Na+"
+            ]
+        ]
+    },
+    "fumarate_dmpa*1": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                412.17,
+                414.14,
+                1.2641767351803073,
+                20105845.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                412.17,
+                414.14,
+                1.2641767351803073,
+                20105845.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                278.10175046677006,
+                "H+"
+            ]
+        ]
+    },
+    "fumarate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                433.71,
+                436.99,
+                0.9474472064947695,
+                8776584456.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                433.71,
+                436.99,
+                0.9474472064947695,
+                8776584456.0,
+                "H+"
+            ],
+            [
+                434.36,
+                437.25,
+                0.9381504776834969,
+                101799893.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                439.18581446677,
+                "H+"
+            ],
+            [
+                461.168307282019,
+                "Na+"
+            ]
+        ]
+    },
+    "(s)-malate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                411.78,
+                414.93,
+                1.0100679353025064,
+                2150094686.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                411.78,
+                414.93,
+                1.0100679353025064,
+                2150094686.0,
+                "H+"
+            ],
+            [
+                411.25,
+                414.67,
+                1.0603804919757251,
+                422688977.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                457.19637846677006,
+                "H+"
+            ],
+            [
+                479.17887128201903,
+                "Na+"
+            ]
+        ]
+    },
+    "l-malate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                411.78,
+                414.93,
+                1.0100679353025064,
+                2150094686.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                411.78,
+                414.93,
+                1.0100679353025064,
+                2150094686.0,
+                "H+"
+            ],
+            [
+                411.25,
+                414.67,
+                1.0603804919757251,
+                422688977.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                457.19637846677006,
+                "H+"
+            ],
+            [
+                479.17887128201903,
+                "Na+"
+            ]
+        ]
+    },
+    "malate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                411.78,
+                414.93,
+                1.0100679353025064,
+                2150094686.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                411.78,
+                414.93,
+                1.0100679353025064,
+                2150094686.0,
+                "H+"
+            ],
+            [
+                411.25,
+                414.67,
+                1.0603804919757251,
+                422688977.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                457.19637846677006,
+                "H+"
+            ],
+            [
+                479.17887128201903,
+                "Na+"
+            ]
+        ]
+    },
+    "oxalacetic acid_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                404.95,
+                407.97,
+                0.7864197884365554,
+                56424640.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                404.95,
+                407.97,
+                0.7864197884365554,
+                56424640.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                455.18072846677,
+                "H+"
+            ]
+        ]
+    },
+    "trans-aconitate_dmpa*1": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                434.1,
+                437.25,
+                0.6341753676751922,
+                49641770.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                434.1,
+                437.25,
+                0.6341753676751922,
+                49641770.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                336.10722946677004,
+                "H+"
+            ]
+        ]
+    },
+    "trans-aconitate_dmpa*3": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                460.92,
+                464.07,
+                0.9993470652704475,
+                4884368848.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                460.92,
+                464.07,
+                0.9993470652704475,
+                4884368848.0,
+                "H+"
+            ]
+        ],
+        "search_mass": [
+            [
+                658.2753574667701,
+                "H+"
+            ]
+        ]
+    },
+    "2-hg_dmpa*1": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                384.99,
+                390.77,
+                1.0639463421800572,
+                254638415.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                384.99,
+                390.77,
+                1.0639463421800572,
+                254638415.0,
+                "H+"
+            ],
+            [
+                384.34,
+                390.64,
+                1.2373962807116292,
+                26714379.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                310.12796446677004,
+                "H+"
+            ],
+            [
+                332.110457282019,
+                "Na+"
+            ]
+        ]
+    },
+    "2-hg_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                414.27,
+                417.43,
+                1.0549969357828435,
+                1937597262.0,
+                "H+"
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                414.27,
+                417.43,
+                1.0549969357828435,
+                1937597262.0,
+                "H+"
+            ],
+            [
+                414.01,
+                417.29,
+                1.0775427162634117,
+                415623959.0,
+                "Na+"
+            ]
+        ],
+        "search_mass": [
+            [
+                471.21202846677005,
+                "H+"
+            ],
+            [
+                493.194521282019,
+                "Na+"
+            ]
+        ]
+    },
+    "alpha-d-glucose": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                36.52,
+                39.41
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                35.87,
+                38.89
+            ]
+        ],
+        "search_mass": [
+            [
+                219.026545486449,
+                "K+"
+            ],
+            [
+                203.052608282019,
+                "Na+"
+            ],
+            [
+                198.097213133388,
+                "NH4+"
+            ]
+        ]
+    },
+    "beta-d-glucose": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                36.52,
+                39.41
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                35.87,
+                38.89
+            ]
+        ],
+        "search_mass": [
+            [
+                219.026545486449,
+                "K+"
+            ],
+            [
+                203.052608282019,
+                "Na+"
+            ],
+            [
+                198.097213133388,
+                "NH4+"
+            ]
+        ]
+    },
+    "d-glucose": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                36.52,
+                39.41
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                32.59,
+                34.16
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                34.42,
+                36.52
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                36.52,
+                39.41
+            ],
+            [
+                35.87,
+                38.89
+            ]
+        ],
+        "search_mass": [
+            [
+                219.026545486449,
+                "K+"
+            ],
+            [
+                203.052608282019,
+                "Na+"
+            ],
+            [
+                198.097213133388,
+                "NH4+"
+            ]
+        ]
+    }
+}

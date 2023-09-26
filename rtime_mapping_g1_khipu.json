@@ -1,0 +1,178 @@
+{
+    "2-oxoglutarate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                406.53,
+                409.94
+            ],
+            [
+                421.76,
+                424.91
+            ],
+            [
+                425.17,
+                428.59
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                406.53,
+                409.94
+            ],
+            [
+                421.76,
+                424.91
+            ],
+            [
+                425.17,
+                428.59
+            ]
+        ],
+        "search_mass": 468.189651
+    },
+    "succinate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                423.33,
+                427.54
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                423.33,
+                427.54
+            ]
+        ],
+        "search_mass": 440.194737
+    },
+    "fumarate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                433.71,
+                437.25
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                433.71,
+                437.25
+            ]
+        ],
+        "search_mass": 438.179087
+    },
+    "(s)-malate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                411.12,
+                414.93
+            ],
+            [
+                411.12,
+                414.93
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                411.12,
+                414.93
+            ],
+            [
+                411.12,
+                414.93
+            ]
+        ],
+        "search_mass": 456.189651
+    },
+    "l-malate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                411.12,
+                414.93
+            ],
+            [
+                411.12,
+                414.93
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                411.12,
+                414.93
+            ],
+            [
+                411.12,
+                414.93
+            ]
+        ],
+        "search_mass": 456.189651
+    },
+    "malate_dmpa*2": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                411.12,
+                414.93
+            ],
+            [
+                411.12,
+                414.93
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                411.12,
+                414.93
+            ],
+            [
+                411.12,
+                414.93
+            ]
+        ],
+        "search_mass": 456.189651
+    },
+    "trans-aconitate_dmpa*3": {
+        "low_confidence_retention_times": [],
+        "confirmed_retention_times": [
+            [
+                460.52,
+                464.46
+            ]
+        ],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                460.52,
+                464.46
+            ]
+        ],
+        "search_mass": 657.26863
+    },
+    "2-hg": {
+        "low_confidence_retention_times": [
+            [
+                53.99,
+                57.4
+            ]
+        ],
+        "confirmed_retention_times": [],
+        "isotope_confirmed_retention_times": [],
+        "all_retention_times": [
+            [
+                53.99,
+                57.4
+            ]
+        ],
+        "search_mass": 148.037173
+    }
+}
