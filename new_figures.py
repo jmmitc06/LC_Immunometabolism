@@ -94,7 +94,6 @@ def build_rtime_map():
             rtime_map[k] = v
     return rtime_map
 
-
 def extract(row, columns):
     return {column: row[column] for column in columns}        
 
@@ -230,17 +229,6 @@ cell_data = compare_rts(cell_data, rtime_map)
 num_carbons = get_num_carbons(cell_data)
 sample_mapping, reverse_mapping = build_sample_map()
 sample_to_id, id_to_sample = columns_to_ids(sample_mapping, reverse_mapping, cell_data)
-
-tim3pos_hyp_t0_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3+", "Normoxia", 0)]]
-tim3neg_nor_t0_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3-", "Normoxia", 0)]]
-tim3pos_hyp_t3_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3+", "Hypoxia", 3)]]
-tim3neg_hyp_t3_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3-", "Hypoxia", 3)]]
-tim3pos_hyp_t6_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3+", "Hypoxia", 6)]]
-tim3neg_hyp_t6_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3-", "Hypoxia", 6)]]
-tim3pos_nor_t3_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3+", "Normoxia", 3)]]
-tim3neg_nor_t3_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3-", "Normoxia", 3)]]
-tim3pos_nor_t6_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3+", "Normoxia", 6)]]
-tim3neg_nor_t6_samples = [id_to_sample[x] for x in reverse_mapping[("Tim3-", "Normoxia", 6)]]
 
 all_cpds = set([x for x in cell_data["name"]])
 for cpd in all_cpds:
